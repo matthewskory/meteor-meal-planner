@@ -1,0 +1,17 @@
+{
+  "name": "food-app",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "autoprefixer": "^6.4.0",
+    "axis": "^0.6.1",
+    "meteor-node-stubs": "~0.2.0",
+    "nib": "^1.1.2",
+    "postcss": "^5.1.2",
+    "rucksack": "^1.0.1",
+    "rupture": "^0.6.1",
+    "FortAwesome/Font-Awesome": "*",
+  }
+}
