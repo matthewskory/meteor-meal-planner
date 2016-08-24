@@ -11,7 +11,6 @@
     "nib": "^1.1.2",
     "postcss": "^5.1.2",
     "rucksack": "^1.0.1",
-    "rupture": "^0.6.1",
-    "FortAwesome/Font-Awesome": "*",
+    "rupture": "^0.6.1"
   }
 }
